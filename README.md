@@ -3,11 +3,11 @@
 
 实现了基于 Python 的高维向量坐标系计算工具，支持：
 
-坐标系变换
-向量投影
-向量与坐标轴夹角
-坐标系面积计算
-支持任意维度
+坐标系变换，
+向量投影，
+向量与坐标轴夹角，
+坐标系面积计算，
+支持任意维度，
 
 ---
 
@@ -22,8 +22,8 @@ linear_algebra_json/
 ├── task_processor.py      # 任务执行
 ├── main.py                # 主程序入口
 │
-├── README.md                  # 项目说明
-└── requirements.txt           # 依赖           
+├── README.md              # 项目说明
+└── requirements.txt       # 依赖           
 
 ```
 
